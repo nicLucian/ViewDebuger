@@ -1,2 +1,3 @@
 rootProject.name='ViewDebuger'
 include ':app'
+include ':viewdebuger'
